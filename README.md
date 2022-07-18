@@ -26,7 +26,16 @@ pip install pyspark==2.3.2
 ```
 pip freeze > requirements.txt
 ```
-7. Add files in git
+7. Add gitignore file
+```
+vi .gitignore
+```
+add following contents
+```
+pyspark_venv/
+__pycache__/
+```
+8. Add files in git
 ```
 git status
 git add .
