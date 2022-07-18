@@ -42,3 +42,12 @@ git add .
 git commit -m "added requirements.txt and .gitignore "
 git push
 ```
+
+9. add directories
+```
+mkdir src
+mkdir tests
+mkdir config
+touch src/__init__.py
+touch tests/__init__.py
+```
