@@ -1,0 +1,15 @@
+.gitignore
+MANIFEST.in
+README.md
+pyproject.toml
+requirements.txt
+setup.cfg
+setup.py
+config/project.properties
+src/__init__.py
+src/app.py
+src/pyspark_project_template.egg-info/PKG-INFO
+src/pyspark_project_template.egg-info/SOURCES.txt
+src/pyspark_project_template.egg-info/dependency_links.txt
+src/pyspark_project_template.egg-info/top_level.txt
+tests/__init__.py
