@@ -50,4 +50,9 @@ mkdir tests
 mkdir config
 touch src/__init__.py
 touch tests/__init__.py
+vi config/project.properties
+```
+add following contents in project.properties
+```
+abc=xyz
 ```
